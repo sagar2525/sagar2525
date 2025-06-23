@@ -1,0 +1,5 @@
+*.md linguist-documentation
+*.html linguist-generated
+*.css linguist-generated
+*.json linguist-generated
+*.yml linguist-generated
