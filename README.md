@@ -2,10 +2,13 @@
 
 Welcome to my GitHub! I'm passionate about **Artificial Intelligence**, **mental health technology**, and **fine-tuning large language models**. I thrive on building impactful projects and exploring cutting-edge solutions that create real-world value.
 
-![Profile Views](https://komarev.com/ghpvc/?username=sagar2525&label=Profile%20views&color=0e75b6&style=for-the-badge)
+---
+
+## 📈 GitHub Profile Badges
+
+![Profile Views](https://komarev.com/ghpvc/?username=sagar2525&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/sagar2525?label=Followers&style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/sagar2525?label=Stars&style=for-the-badge)
-![GitHub Contributions](https://img.shields.io/github/contributions/annual/sagar2525?style=for-the-badge)
 
 ---
 
@@ -29,10 +32,10 @@ Welcome to my GitHub! I'm passionate about **Artificial Intelligence**, **mental
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FF8800?style=for-the-badge&logo=huggingface&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FF8800?style=for-the-badge&logo=huggingface&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA%20Models-AI%2FML-FFB86C?style=for-the-badge&logo=python&logoColor=white)
 
 ---
