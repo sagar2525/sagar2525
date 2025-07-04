@@ -2,6 +2,11 @@
 
 Welcome to my GitHub! I'm passionate about **Artificial Intelligence**, **mental health technology**, and **fine-tuning large language models**. I thrive on building impactful projects and exploring cutting-edge solutions that create real-world value.
 
+![Profile Views](https://komarev.com/ghpvc/?username=sagar2525&label=Profile%20views&color=0e75b6&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/sagar2525?label=Followers&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/sagar2525?label=Stars&style=for-the-badge)
+![GitHub Contributions](https://img.shields.io/github/contributions/annual/sagar2525?style=for-the-badge)
+
 ---
 
 ## 🚀 Current Focus
@@ -35,20 +40,26 @@ Welcome to my GitHub! I'm passionate about **Artificial Intelligence**, **mental
 ## 🌟 Featured Projects
 
 - 🎧 **[SynchCast](#)**  
-A fully software-based audio broadcasting system that streams system sound to multiple selected output devices (Bluetooth, AUX, USB) in parallel.
+  A fully software-based audio broadcasting system that streams system sound to multiple selected output devices (Bluetooth, AUX, USB) in parallel.
 
 - 🤖 **[Mental Health Chatbot](#)**  
-An AI-powered chatbot built by fine-tuning LLaMA models, focused on delivering mental health support through thoughtful, conversational AI.
+  An AI-powered chatbot built by fine-tuning LLaMA models, focused on delivering mental health support through thoughtful, conversational AI.
 
 - 📦 **[AI Deployment Toolkit](#)**  
-A production-ready toolkit for deploying, managing, and scaling large language models using Docker, FastAPI, and Hugging Face spaces.
+  A production-ready toolkit for deploying, managing, and scaling large language models using Docker, FastAPI, and Hugging Face Spaces.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar2525&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar2525&layout=compact&theme=radical)
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar2525&show_icons=true&theme=radical&cache_seconds=1800)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar2525&layout=compact&theme=radical&cache_seconds=1800)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sagar2525&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
