@@ -3,3 +3,5 @@
 *.css linguist-generated
 *.json linguist-generated
 *.yml linguist-generated
+/samapurnabharat1/** linguist-vendored
+
