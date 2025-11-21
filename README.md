@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Sagar Singh Kushwaha
+# 👋 Hi, I'm **Sagar Singh Kushwaha**
 
-Welcome to my GitHub! I'm passionate about **Artificial Intelligence**, **mental health technology**, and **fine-tuning large language models**. I thrive on building impactful projects and exploring cutting-edge solutions that create real-world value.
+Welcome to my GitHub! I’m passionate about **Artificial Intelligence**, **Quantitative Trading**, **workflow automation**, and **fine-tuning large language models**.  
+I love building systems that combine AI with real-time data, automated decision-making, and human-centered impact.
 
 ---
 
-## 📈 GitHub Profile Badges
+## 📈 **GitHub Profile Badges**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sagar2525&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/sagar2525?label=Followers&style=for-the-badge)
@@ -12,17 +13,27 @@ Welcome to my GitHub! I'm passionate about **Artificial Intelligence**, **mental
 
 ---
 
-## 🚀 Current Focus
+## 🚀 **Current Focus Areas**
 
-- 🎧 **Latest Project:** Building **SynchCast** — a multi-Bluetooth audio broadcasting system for Windows that routes system audio to multiple output devices (Bluetooth, AUX, USB) simultaneously using virtual audio drivers.  
-- 💬 **Previous Work:** Developed a **mental health chatbot** by fine-tuning LLaMA models to offer empathetic, AI-powered emotional support.  
-- 📦 **Learning:** Exploring advanced **MLOps**, multi-user model serving, scalable deployment, and real-time audio processing.  
-- 🤖 **Interests:** LLMs, system-level AI applications, audio engineering, and mental health innovation.  
-- ⚡ **Fun Fact:** I love bridging deep tech with human-centered design to solve real-life problems.
+### 📊 **Quantitative Finance & Algo Trading**
+- Building an **AI-Powered Earnings Sentiment Trading System**  
+  → Real-time NSE filings → AI PDF parsing → sentiment classification → automatic trade execution.
+
+### 🎧 **Real-Time Audio Engineering**
+- Developing **SynchCast**, a multi-Bluetooth audio broadcasting system using virtual audio routing and a simple Python GUI.
+
+### 🤖 **AI & LLM Development**
+- Fine-tuning LLaMA and other open-source models for domain-specific applications (mental health, automation, classification).
+
+### 💡 **Learning**
+- Market microstructure  
+- Feature engineering for trading systems  
+- MLOps for scalable LLM deployment  
+- Latency optimization in real-time systems  
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/-Sagar%20Singh%20Kushwaha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-singh-kushwaha-832036245/)  
 [![Instagram](https://img.shields.io/badge/-_sagar_kush25-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sagar_kush25/)  
@@ -30,48 +41,81 @@ Welcome to my GitHub! I'm passionate about **Artificial Intelligence**, **mental
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ **Tech Stack**
 
+**Core Skills:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Automation-EA4C89?style=for-the-badge&logo=automation&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FF8800?style=for-the-badge&logo=huggingface&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA%20Models-AI%2FML-FFB86C?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-## 🌟 Featured Projects
-
-- 🎧 **[SynchCast](#)**  
-  A fully software-based audio broadcasting system that streams system sound to multiple selected output devices (Bluetooth, AUX, USB) in parallel.
-
-- 🤖 **[Mental Health Chatbot](#)**  
-  An AI-powered chatbot built by fine-tuning LLaMA models, focused on delivering mental health support through thoughtful, conversational AI.
-
-- 📦 **[AI Deployment Toolkit](#)**  
-  A production-ready toolkit for deploying, managing, and scaling large language models using Docker, FastAPI, and Hugging Face Spaces.
+**Quant / Trading:**  
+![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas)
+![yfinance](https://img.shields.io/badge/YFinance-Market%20Data-blue?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 **Featured Projects**
+
+### 📊 **AI Earnings Sentiment Trading System (Latest — Highlighted)**
+A fully automated trading pipeline that:
+- Tracks real-time **NSE/BSE corporate announcements**
+- Downloads result PDFs instantly  
+- Extracts revenue, profit, and margin metrics using an **LLM-based parser**
+- Performs sentiment classification (**Positive / Negative / Neutral**)  
+- Executes trades using broker APIs  
+- Monitors SL/Target/Timeout  
+- Logs everything for backtesting  
+
+Built with **Python, n8n, Google Cloud VM, Docker, and AI PDF parsing**.
+
+---
+
+### 🎧 **SynchCast**
+A real-time multi-audio broadcasting system for Windows that streams system sound to multiple output devices simultaneously.
+
+---
+
+### 🤖 **Mental Health Chatbot**
+A conversational AI assistant built by fine-tuning LLaMA models on real psychiatrist–patient conversations.
+
+---
+
+### ⚙️ **AI Deployment Toolkit**
+A production-ready toolkit for deploying and serving LLMs with FastAPI, Docker, and GPU/CPU optimization.
+
+---
+
+## 📊 **GitHub Stats**
 
 ![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar2525&show_icons=true&theme=radical&cache_seconds=1800)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar2525&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 **GitHub Trophies**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sagar2525&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🌱 Fun & Learning
+## 📚 **Beyond Code**
 
-I’m always exploring projects that push the boundary between human behavior and machine intelligence. Whether it’s real-time audio processing, deploying LLMs, or building chatbots that connect with people — I’m here to innovate for a better world.
+I enjoy creating systems that bridge  
+**AI → Automation → Real-Time Execution → Human Impact**.
+
+From automated trading engines to multi-device audio broadcasting, my projects reflect a blend of:
+- software engineering  
+- AI research  
+- quantitative reasoning  
+- practical, real-world problem-solving  
 
 ---
 
-> _“Let’s build technology that truly empowers human well-being.”_
+> _“Technology becomes meaningful when it improves human life — whether through intelligence, automation, or empathy.”_
 
-⭐️ If you like my work, feel free to connect, collaborate, or star a few repos!
+⭐ If you like my work, feel free to **star**, **fork**, or **connect**!  
