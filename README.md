@@ -92,14 +92,17 @@ A production-ready toolkit for deploying and serving LLMs with FastAPI, Docker, 
 
 ## 📊 **GitHub Stats**
 
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar2525&show_icons=true&theme=radical&cache_seconds=1800)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar2525&layout=compact&theme=radical&cache_seconds=1800)
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar2525&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar2525&layout=compact&theme=radical)
+
 
 ---
 
 ## 🏆 **GitHub Trophies**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sagar2525&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=sagar2525&theme=radical&no-bg=true&no-frame=true)
+
 
 ---
 
